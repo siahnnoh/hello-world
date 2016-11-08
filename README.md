@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi there!
+I'm Siahn Noh from South Korea. 
+Enjoy the tutorial!
